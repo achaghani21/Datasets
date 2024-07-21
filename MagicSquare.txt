@@ -1,0 +1,20 @@
+Input:
+
+    Prompt the user to enter an odd integer n (size of the magic square).
+    If the user enters an even number, display an error message and terminate the program.
+
+Algorithm:
+
+    Use the Siamese method to generate the magic square. This method works as follows:
+        Start with the middle of the last row.
+        Place the number 1 in this position.
+        The next number goes in the cell to the right and up. If this position is already occupied or goes out of bounds, adjust the position as follows:
+            If the position goes out of the right boundary, wrap around to the first column.
+            If the position goes out of the top boundary, wrap around to the last row.
+            If the target cell is already occupied, move down one cell instead.
+        Repeat this process until all numbers from 1 to n*n are placed in the square.
+
+Output:
+
+    Display the generated magic square.
+    Display the sum of each row, column, and diagonal.
