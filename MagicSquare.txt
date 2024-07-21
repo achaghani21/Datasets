@@ -18,3 +18,11 @@ Output:
 
     Display the generated magic square.
     Display the sum of each row, column, and diagonal.
+
+For example:
+
+For n = 3, the magic square should be:
+
+2 7 6
+9 5 1
+4 3 8
