@@ -1,0 +1,51 @@
+id,created_at,PlayerName,JeseryNumber,Height,Rebounds,Assists,Points,Steals,Team
+2,2025-04-22 01:25:29,CJ McCollum,28,"7'10""",4.0,8.9,29.7,1.8,Atlanta Hawks
+3,2025-04-22 01:25:29,Bradley Beal,31,"6'10""",7.0,8.1,28.5,1.5,Cleveland Cavaliers
+4,2025-04-22 01:25:29,Russell Westbrook,73,"7'0""",3.5,4.6,33.5,2.0,Indiana Pacers
+5,2025-04-22 01:25:29,Jrue Holiday,61,"7'4""",8.6,1.9,15.2,0.8,Golden State Warriors
+6,2025-04-22 01:25:29,Stephen Curry,22,"6'11""",7.6,9.3,34.2,2.9,Cleveland Cavaliers
+7,2025-04-22 01:25:29,Desmond Bane,42,"7'7""",7.6,4.6,6.5,2.3,Indiana Pacers
+8,2025-04-22 01:25:29,Jrue Holiday,63,"6'5""",3.7,2.2,24.6,2.1,Brooklyn Nets
+9,2025-04-22 01:25:29,De'Aaron Fox,29,"6'0""",6.3,6.2,25.3,0.6,Cleveland Cavaliers
+10,2025-04-22 01:25:29,De'Aaron Fox,22,"7'3""",4.4,2.8,26.3,0.7,Phoenix Suns
+11,2025-04-22 01:25:29,Nikola Jokic,2,"6'7""",8.6,9.3,8.1,2.4,Brooklyn Nets
+12,2025-04-22 01:25:29,Jayson Tatum,94,"6'1""",3.5,5.6,33.0,2.1,Miami Heat
+13,2025-04-22 01:25:29,Jrue Holiday,68,"7'0""",10.3,2.0,27.6,2.4,Phoenix Suns
+14,2025-04-22 01:25:29,Desmond Bane,11,"6'11""",6.3,8.7,30.6,1.5,Golden State Warriors
+15,2025-04-22 01:25:29,Jayson Tatum,93,"6'3""",3.3,1.5,17.4,2.1,Houston Rockets
+16,2025-04-22 01:25:29,CJ McCollum,0,"7'5""",5.3,8.8,25.0,0.8,Denver Nuggets
+17,2025-04-22 01:25:29,Anthony Davis,78,"7'11""",9.3,4.2,11.3,1.8,Toronto Raptors
+18,2025-04-22 01:25:29,Josh Giddey,14,"6'4""",8.5,4.6,17.3,0.7,New Orleans Pelicans
+19,2025-04-22 01:25:29,Josh Giddey,47,"6'3""",11.4,1.5,27.4,0.7,Brooklyn Nets
+20,2025-04-22 01:25:29,Fred VanVleet,61,"7'6""",7.4,6.5,5.7,2.5,Miami Heat
+21,2025-04-22 01:25:29,Myles Turner,57,"6'11""",3.7,4.1,9.6,2.8,Atlanta Hawks
+22,2025-04-22 01:25:29,CJ McCollum,54,"7'9""",4.9,1.6,31.9,1.5,Dallas Mavericks
+23,2025-04-22 01:25:29,Trae Young,5,"7'8""",10.2,5.4,28.2,1.6,Philadelphia 76ers
+24,2025-04-22 01:25:29,Nikola Jokic,27,"7'9""",4.1,9.2,18.3,2.7,Miami Heat
+25,2025-04-22 01:25:29,Jaylen Brown,36,"7'8""",6.5,1.9,8.2,2.8,Toronto Raptors
+26,2025-04-22 01:25:29,Anfernee Simons,78,"7'0""",7.0,5.4,12.4,0.7,Milwaukee Bucks
+27,2025-04-22 01:25:29,Giannis Antetokounmpo,0,"7'7""",11.1,5.1,20.5,1.2,Dallas Mavericks
+28,2025-04-22 01:25:29,Damian Lillard,64,"6'8""",11.5,9.1,21.3,0.8,Los Angeles Clippers
+29,2025-04-22 01:25:29,Zion Williamson,24,"6'9""",6.8,4.2,15.0,2.5,Brooklyn Nets
+30,2025-04-22 01:25:29,Josh Giddey,40,"6'4""",5.5,7.2,7.0,1.1,Brooklyn Nets
+31,2025-04-22 01:25:29,Jayson Tatum,79,"7'6""",5.1,5.7,14.7,1.2,Orlando Magic
+32,2025-04-22 01:25:29,Tyler Herro,54,"6'1""",6.4,5.8,13.4,1.4,Atlanta Hawks
+33,2025-04-22 01:25:29,DeMar DeRozan,69,"7'7""",3.9,4.4,5.9,0.9,Boston Celtics
+34,2025-04-22 01:25:29,Bradley Beal,0,"6'9""",10.8,4.9,9.4,2.5,Los Angeles Clippers
+35,2025-04-22 01:25:29,Giannis Antetokounmpo,9,"7'5""",7.2,4.8,8.5,1.7,Boston Celtics
+36,2025-04-22 01:25:29,Josh Giddey,28,"7'6""",9.3,9.0,17.4,1.8,Brooklyn Nets
+37,2025-04-22 01:25:29,Myles Turner,52,"6'4""",6.4,8.8,12.4,1.2,Toronto Raptors
+38,2025-04-22 01:25:29,Michael Porter Jr.,7,"6'1""",5.9,6.7,26.1,2.5,Memphis Grizzlies
+39,2025-04-22 01:25:29,Jalen Green,54,"7'1""",6.7,9.0,23.9,2.7,Cleveland Cavaliers
+40,2025-04-22 01:25:29,Fred VanVleet,93,"7'3""",8.5,1.6,29.4,1.7,Denver Nuggets
+41,2025-04-22 01:25:29,Darius Garland,86,"7'6""",3.7,5.4,16.8,1.8,Miami Heat
+42,2025-04-22 01:25:29,Jayson Tatum,19,"6'5""",5.8,3.4,30.0,0.8,Cleveland Cavaliers
+43,2025-04-22 01:25:29,Devin Booker,44,"6'11""",9.9,8.1,13.9,0.8,Los Angeles Clippers
+44,2025-04-22 01:25:29,OG Anunoby,13,"7'11""",10.6,7.6,5.0,2.5,New Orleans Pelicans
+45,2025-04-22 01:25:29,Michael Porter Jr.,57,"6'5""",5.4,3.3,28.3,2.7,Brooklyn Nets
+46,2025-04-22 01:25:29,Zion Williamson,0,"6'2""",9.8,7.0,29.1,2.2,Miami Heat
+47,2025-04-22 01:25:29,Paul George,33,"6'9""",4.0,9.1,18.5,1.9,Dallas Mavericks
+48,2025-04-22 01:25:29,Josh Giddey,19,"6'5""",10.4,4.6,32.0,1.1,Brooklyn Nets
+49,2025-04-22 01:25:29,De'Aaron Fox,2,"6'2""",11.2,9.8,13.1,0.7,Cleveland Cavaliers
+50,2025-04-22 01:25:29,Michael Porter Jr.,53,"6'9""",3.4,1.3,21.5,2.0,Memphis Grizzlies
+51,2025-04-22 01:25:29,Luka Doncic,18,"6'8""",10.8,1.8,23.4,0.9,Miami Heat
